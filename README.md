@@ -1,15 +1,15 @@
 <ul>
-<li>Hi 👋, I'm @Oyindobra-Agberebi</li>
+<li>Hi 👋, I'm <strong>@Oyindobra-Agberebi</strong></li>
 <li>👀I'm interested in Full Stack Web Development and Mobile Application Development</li>
    
 
-<li>🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, React and Flutter**</li>
+<li>🌱 I’m currently learning <strong>HTML, CSS, JavaScript, Bootstrap, React and Flutter</strong></li>
 
-<li>📫 How to reach me **oyindobraagberebi@gmail.com**</li>
+<li>📫 How to reach me <strong>oyindobraagberebi@gmail.com</strong></li>
 
 <li>Connect with me:</li>
 <p align="left">
-<a href="https://twitter.com/_oyindobra_" target="blank">@_oyindobra_</a>
+<a href="https://twitter.com/_oyindobra_" target="blank"><strong>@_oyindobra_</strong></a>
 </p>
 
 </ul>
