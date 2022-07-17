@@ -9,7 +9,7 @@
 
 <li>Connect with me:</li>
 <p align="left">
-<a href="https://twitter.com/_oyindobra_" target="blank"><strong>@_oyindobra_</strong></a>
+<a href="https://twitter.com/oyindobra_" target="blank"><strong>@_oyindobra_</strong></a>
 </p>
 
 </ul>
