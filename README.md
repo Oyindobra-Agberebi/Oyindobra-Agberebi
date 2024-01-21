@@ -3,7 +3,7 @@
 <li>👀I'm interested in Full Stack Web Development and Flutter Development</li>
    
 
-<li>🌱 I’m currently learning <strong>HTML, CSS, JavaScript, Sass, Bootstrap, React and Flutter</strong></li>
+<li>🌱 I’m currently learning <strong>Next Js</strong></li>
 
 <li>📫 How to reach me <strong>oyindobraagberebi@gmail.com</strong></li>
 
